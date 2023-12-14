@@ -12,6 +12,7 @@ matplotlib = "*"
 nbformat = "*"
 scipy = "*"
 split-folders = "*"
+tensorboard = "*"
 
 [dev-packages]
 
