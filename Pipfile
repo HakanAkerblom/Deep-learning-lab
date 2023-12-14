@@ -13,6 +13,7 @@ nbformat = "*"
 scipy = "*"
 split-folders = "*"
 tensorboard = "*"
+keras-tuner = "*"
 
 [dev-packages]
 
